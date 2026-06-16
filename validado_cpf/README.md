@@ -29,8 +29,8 @@ Este projeto implementa exatamente essa fórmula:
 
 1. Clone o repositório:
 ```bash
-git clone https://github.com/seu-usuario/validador-cpf.git
-cd validador-cpf
+git clone https://github.com/gelane-dev/validador-de-cpf.git
+cd validador-de-cpf
 ```
 
 2. Execute:
